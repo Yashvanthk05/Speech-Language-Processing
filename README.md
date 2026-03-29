@@ -1,4 +1,4 @@
-# Speech & Language Processing — Notebook Learning
+# Speech & Language Processing - Notebook Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
